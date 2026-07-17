@@ -48,7 +48,7 @@ Image-Search-Engine/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/image-search-engine.git
+https://github.com/Raj01-create/Image_Search_Engine.git
 ```
 
 2. Open the project folder
